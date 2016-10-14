@@ -7,15 +7,15 @@
     "test": "test"
   },
   "dependencies": {
-    "lodash": "^4.6.1"
+    "lodash": "^4.16.4"
   },
   "devDependencies": {
-    "async": "^2.0.0-rc.1",
+    "async": "^2.1.1",
     "chai": "^3.5.0",
-    "mocha": "^2.4.5",
-    "mockgoose": "^6.0.0",
-    "mongodb": "^2.1.11",
-    "mongoose": "^4.4.9"
+    "mocha": "^3.1.2",
+    "mockgoose": "^6.0.8",
+    "mongodb": "^2.2.10",
+    "mongoose": "^4.6.3"
   },
   "scripts": {
     "test": "mocha"
