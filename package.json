@@ -31,7 +31,7 @@
     "schema"
   ],
   "author": "Simon Guest <me@simonguest.com> (http://github.com/simonguest)",
-  "license": "Apache 2",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/simonguest/swagger-mongoose/issues"
   },
